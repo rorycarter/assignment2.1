@@ -8,12 +8,12 @@ public class MainAppTest extends TestCase {
     MainApp a = new MainApp();
     public void testInt()throws Exception {
         {
-            Assert.assertEquals(6, a.testInt());
+            Assert.assertEquals(5, a.testInt());
 
         }
     }
 
-    public void testdouble()throws Exception
+    public void testDouble()throws Exception
     {
         Assert.assertEquals(10.0,a.testDouble());
     }

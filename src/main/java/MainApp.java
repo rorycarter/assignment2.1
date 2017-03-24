@@ -7,7 +7,7 @@ public class MainApp
 
     public int testInt()
     {
-        return 6;
+        return 5;
     }
 
     public double testDouble()
